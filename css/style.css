@@ -1,0 +1,14 @@
+header{
+	background-color: rgb(243,233,241);
+}
+#logo {
+	padding-left: 4rem; 
+}
+#icon {
+	display: flex;
+	justify-content: center;
+}
+#icon i {
+	padding-top: 2rem;
+	color: black;
+}
